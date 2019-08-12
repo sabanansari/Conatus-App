@@ -22,6 +22,8 @@
         </activity>
         <activity android:name=".TeamMainActivity"></activity>
         <activity android:name=".Team_Activity"></activity>
+        <activity android:name=".Event_Activity"></activity>
+        <activity android:name=".EventMainActivity"></activity>
     </application>
 
 </manifest>

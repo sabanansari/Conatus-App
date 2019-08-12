@@ -51,8 +51,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 Fragment selectedFragment=null;
                switch (menuItem.getItemId()) {
                    case R.id.nav_team:
-                       Intent inte = new Intent(MainActivity.this,TeamMainActivity.class);
-                       startActivity(inte);
+                       Intent intentteam = new Intent(MainActivity.this,TeamMainActivity.class);
+                       startActivity(intentteam);
                        break;
 
                    case R.id.nav_home:
@@ -62,8 +62,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 
                    case R.id.nav_event:
-                       selectedFragment = new EventFragment();
-                       getSupportFragmentManager().beginTransaction().replace(R.id.fragment_drawer, selectedFragment).commit();
+                       Intent intentevent = new Intent(MainActivity.this,Event_Activity.class);
+                       startActivity(intentevent);
                        break;
 
                    case R.id.nav_contact:
