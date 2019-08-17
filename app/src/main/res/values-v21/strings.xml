@@ -13,16 +13,15 @@
                                  Besides being the first technical society of AKGEC, Conatus leads the technological upfront by organizing a wide
                                  range of activities throughout the year. </string>
 
-    <string name="about_ansari">A pacific, passionate and determined hardworking person and also a rhymer of words.My hobbies are singing, writing and sketching.
+    <string name="about_ansari">A pacific,passionate and determined hardworking person and also a rhymer of words.My hobbies are singing, writing and sketching.
                                 I am currently amplifying my technical skills my learning to develop apps on android platform.</string>
-<string name="myname">Shaban Ansari</string>
-    <string name="aboutme">Android Developer</string>
+
     <string name="call">Contact no.:</string>
     <string name="number">8929833119</string>
     <string name="email">Email:</string>
     <string name="emailaddress">teamconatus@gmail.com</string>
     <string name="location">Address:</string>
-    <string name="address">Ajay Kumar Garg Engineering College, Ghaziabad, Hapur Bypass, U.P., PIN:201009</string>
+    <string name="address">Ajay Kumar Garg Engineering College, Ghaziabad, Hspur Bypass, U.P., PIN:201009</string>
 
     <string name="linktofacebook">
         <a href="https://www.facebook.com/conatus.akg/">Join us on:</a>
